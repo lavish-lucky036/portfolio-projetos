@@ -70,4 +70,3 @@ Quero participar de uma equipe, aprender com profissionais experientes e contrib
 
 ---
 
-*Este é um portfólio descritivo. Os códigos-fonte dos projetos originais permanecem privados; não há credenciais, dados de clientes nem arquivos internos aqui.*

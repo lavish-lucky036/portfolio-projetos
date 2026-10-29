@@ -2,8 +2,6 @@
 
 Estudante de **Engenharia de Software na UNIASSELVI**, interessado em desenvolvimento de software, automação, suporte técnico e aplicações de inteligência artificial.
 
-Este repositório reúne **descrições públicas de projetos pessoais** e um **site estático** de apresentação. Os repositórios originais continuam privados; **nenhum código-fonte dos projetos privados foi publicado aqui**.
-
 ## 🌐 Visualizar o portfólio
 
 - Site: **https://lavish-lucky036.github.io/portfolio-projetos/** (disponível depois de ativar o GitHub Pages)

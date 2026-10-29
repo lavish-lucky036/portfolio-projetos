@@ -1,44 +1,73 @@
-# Portfólio — Gabriel Antônio de Mello
+# Olá, sou Gabriel Antônio de Mello! 👋
 
-Estudante de **Engenharia de Software na UNIASSELVI**, interessado em desenvolvimento de software, automação, suporte técnico e aplicações de inteligência artificial.
+Sou estudante de **Engenharia de Software na UNIASSELVI**, atualmente no **2º semestre**, e estou em busca da minha primeira oportunidade de estágio em tecnologia.
 
-## 🌐 Visualizar o portfólio
+Gosto de **transformar ideias em projetos que posso testar, ajustar e melhorar**. Tenho interesse especial por desenvolvimento de software, automações e inteligência artificial. Foi colocando essas ideias em prática que comecei a explorar aplicações para desktop e sistemas web.
 
-- Site: **https://lavish-lucky036.github.io/portfolio-projetos/** (disponível depois de ativar o GitHub Pages)
-- Arquivo do site: [index.html](./index.html)
-- Perfil GitHub: https://github.com/lavish-lucky036
+Neste portfólio, apresento meus projetos pessoais, as tecnologias envolvidas e os desafios que venho estudando.
 
-## 🛠️ Projetos
+### 🔗 Onde me encontrar
 
-### 1. Lavish AI Video Editor — em desenvolvimento
+- **Portfólio online:** https://lavish-lucky036.github.io/portfolio-projetos/
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-antonio-mello-8055a4395/
+- **GitHub:** https://github.com/lavish-lucky036
 
-Editor de vídeo para Windows que combina montagem de vídeos com edição visual e exportação.
+## 🚀 Meus projetos
 
-- **Funcionalidades documentadas:** presets personalizáveis, textos e logos ajustáveis, filtros visuais, modos de áudio, prévia renderizada e exportação em MP4.
-- **Tecnologias:** React, TypeScript, Tauri 2, Python, FFmpeg.
-- **Foco técnico:** interface desktop, preservação de arquivos originais, persistência de projetos, renderização e ajustes de elementos visuais.
+### 🎬 Lavish AI Video Editor | Em desenvolvimento
 
-### 2. DropBrasil Automação — protótipo local / simulação
+Minha ideia com este projeto é facilitar a criação e a edição de vídeos curtos, combinando **presets reutilizáveis** com a liberdade de ajustar os elementos manualmente.
 
-Painel local voltado à organização de fornecedores e produtos para dropshipping nacional.
+**Principais funcionalidades documentadas:**
+- Personalização de textos, logos e marcas-d'água no editor visual.
+- Presets de edição, efeitos e filtros.
+- Controle do áudio original e da música.
+- Geração de prévia e exportação em MP4.
 
-- **Funcionalidades documentadas:** catálogo de produtos e SKUs, importação CSV, precificação, estoque, painéis e fluxos simulados de integração.
-- **Tecnologias:** Python, FastAPI, React, TypeScript, SQLite.
-- **Limitações atuais:** não executa pedidos reais, pagamentos ou escritas em serviços comerciais externos. Integrações reais dependem de validação e habilitação próprias.
+**Tecnologias:** React, TypeScript, Tauri 2, Python e FFmpeg.
 
-### 3. Lavish Desktop AI — fase inicial
+**O que venho explorando:** construção de interfaces desktop, organização de configurações, renderização de vídeo e preservação dos arquivos originais.
 
-Projeto conceitual de um assistente de inteligência artificial para desktop.
+### 🛒 DropBrasil Automação | Protótipo local / simulação
 
-- Possui estrutura inicial de versionamento e preparação.
-- **A aplicação ainda não foi implementada.** Está incluído como ideia em planejamento, não como produto pronto.
+Quis explorar como um sistema pode ajudar a organizar o trabalho de uma operação de e-commerce, principalmente na parte de **fornecedores, produtos e automação de tarefas**.
 
-## 🤖 Processo de desenvolvimento
+**Principais funcionalidades documentadas:**
+- Cadastro e organização de fornecedores, produtos e SKUs.
+- Importação e validação de catálogos CSV.
+- Controle local de preços e estoque.
+- Painel de gerenciamento e fluxos simulados de integração.
 
-Utilizo ferramentas de inteligência artificial, incluindo o **Codex**, como apoio à implementação do código. Minha participação envolve idealização das soluções, definição e revisão de requisitos, testes manuais, identificação de falhas e direcionamento de melhorias.
+**Tecnologias:** Python, FastAPI, React, TypeScript e SQLite.
 
-Estou continuamente desenvolvendo meus conhecimentos de Engenharia de Software.
+**O que venho explorando:** comunicação entre frontend e backend, persistência de dados, validação de informações e cuidado com integrações externas.
 
-## 🎓 Sobre mim
+> **Estado atual:** o projeto funciona localmente e inclui simulações. Ainda não realiza pedidos reais, pagamentos ou operações de escrita em plataformas comerciais.
 
-Curso Engenharia de Software na UNIASSELVI e busco minha primeira oportunidade de estágio nas áreas de **Desenvolvimento de Software**, **Suporte Técnico** ou **Tecnologia da Informação**.
+### 🤖 Lavish Desktop AI | Planejamento inicial
+
+Uma ideia que quero desenvolver é a de um **assistente de IA para computador**, com foco em interação e automações no desktop.
+
+O repositório contém a preparação inicial do projeto, mas **a aplicação ainda não foi implementada**. É uma iniciativa que pretendo usar para aprender mais sobre integração de IA a aplicações.
+
+## 🧩 Como participo do desenvolvimento
+
+Utilizo ferramentas de inteligência artificial, especialmente o **Codex**, para auxiliar na implementação do código. Meu trabalho nos projetos envolve:
+
+- Pensar na proposta, no fluxo e nas funcionalidades de cada aplicação.
+- Descrever requisitos e orientar as implementações.
+- Testar manualmente as entregas e identificar o que não funcionou como esperado.
+- Analisar resultados e solicitar correções ou melhorias.
+- Aprender com as decisões técnicas e os desafios encontrados.
+
+Tenho consciência de que usar IA para programar **não substitui compreender o software**. Por isso, quero evoluir cada vez mais meus conhecimentos de lógica, programação, testes e arquitetura.
+
+## 🎓 O que busco
+
+Estou cursando **Engenharia de Software presencialmente** e procuro uma oportunidade de estágio em **Desenvolvimento de Software, TI ou Suporte Técnico**.
+
+Quero participar de uma equipe, aprender com profissionais experientes e contribuir com comunicação, atenção às necessidades das pessoas e disposição para resolver problemas.
+
+---
+
+*Este é um portfólio descritivo. Os códigos-fonte dos projetos originais permanecem privados; não há credenciais, dados de clientes nem arquivos internos aqui.*

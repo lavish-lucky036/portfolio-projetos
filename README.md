@@ -10,7 +10,7 @@ Estudante de **Engenharia de Software na UNIASSELVI**, interessado em desenvolvi
 
 ## 🛠️ Projetos
 
-### 1. Gabriel AI Video Editor — em desenvolvimento
+### 1. Lavish AI Video Editor — em desenvolvimento
 
 Editor de vídeo para Windows que combina montagem de vídeos com edição visual e exportação.
 
@@ -26,7 +26,7 @@ Painel local voltado à organização de fornecedores e produtos para dropshippi
 - **Tecnologias:** Python, FastAPI, React, TypeScript, SQLite.
 - **Limitações atuais:** não executa pedidos reais, pagamentos ou escritas em serviços comerciais externos. Integrações reais dependem de validação e habilitação próprias.
 
-### 3. Luna Desktop AI — fase inicial
+### 3. Lavish Desktop AI — fase inicial
 
 Projeto conceitual de um assistente de inteligência artificial para desktop.
 
@@ -42,23 +42,3 @@ Estou continuamente desenvolvendo meus conhecimentos de Engenharia de Software.
 ## 🎓 Sobre mim
 
 Curso Engenharia de Software na UNIASSELVI e busco minha primeira oportunidade de estágio nas áreas de **Desenvolvimento de Software**, **Suporte Técnico** ou **Tecnologia da Informação**.
-
-## 🚀 Publicar o site no GitHub Pages
-
-1. Acesse **Settings → Pages** neste repositório.
-2. Em **Build and deployment**, escolha **Deploy from a branch**.
-3. Selecione **main** e **/(root)**, então clique **Save**.
-4. Consulte o endereço publicado em **Settings → Pages**.
-
-O portfólio funciona apenas com o arquivo `index.html`, sem instalações ou dependências externas.
-
-## 🔒 Privacidade e transparência
-
-- O código-fonte dos projetos originais não foi copiado para este repositório.
-- Não são publicados segredos, bancos de dados, credenciais ou mídias privadas.
-- Os elementos gráficos do site são **conceituais**, não capturas de tela reais dos aplicativos.
-- As descrições diferenciam o que está em desenvolvimento, em simulação e ainda em planejamento.
-
----
-
-**Gabriel Antônio de Mello** · [GitHub](https://github.com/lavish-lucky036)
